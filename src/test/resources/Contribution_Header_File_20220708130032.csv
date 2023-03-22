@@ -1,0 +1,5 @@
+Schedule Reference,Group Scheme Id,Sub Scheme Id,Effective Date,Schedule Type,Payment Plan No,Pay Reference,Payment Due Date,Start Date,End Date,Mop Type,Mop Type Desc,Prem Frequency,Prem Frequency Desc,Tax Period Freq Ind,Number Of Members
+2022-08-07-12.20.35.637021.5199 ,DC100013564     ,0001,22/07/2022,N,BPJ90107100,NESTBPJ90107100                    ,          ,09 JUL 2022,08/08/2022,DD,Direct Debit        ,M ,Monthly             , ,         1
+2022-07-07-06.59.00.700692.5143 ,DC100012924     ,0001,21/07/2022,N,BPF15096100,NESTBPF15096100                    ,          ,08 JUL 2022,07/08/2022,DD,Direct Debit        ,M ,Monthly             , ,         1
+2022-06-07-11.54.43.738398.5103 ,DC100012436     ,0001,18/06/2022,N,BPL93686100,NESTBPL93686100                    ,          ,06 JUN 2022,05/07/2022,DD,Direct Debit        ,M ,Monthly             , ,         1
+2022-07-07-05.34.56.969386.5136 ,DC100012835     ,0001,20/05/2022,N,BPL31986100,NESTBPL31986100                    ,          ,07 MAY 2022,06/06/2022,DD,Direct Debit        ,M ,Monthly             , ,         1

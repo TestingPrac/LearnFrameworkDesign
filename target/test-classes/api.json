@@ -1,0 +1,28 @@
+{
+  "caseTypeID": "BPS-Pension-Work-SI-Interaction-Web",
+
+
+  "content":
+  {
+    "IntentAttributes":
+
+    {
+      "IsRelated": "",
+      "SchemeId": "CONT-100",
+      "ComplaintDisputeDescription": "Employer not received the pension amount for November 2021 The National Employment Savings Trust is a defined contribution workplace pension scheme in the United Kingdom. It was set up to facilitate automatic enrolment as part of the government's workplace ",
+      "PreferredContactTime": "Morning",
+      "ProposedResolution": "Employer requested to pay the missed pension amount as soon as possible",
+      "AccountType": "Member",
+      "ComplainantType": "Member",
+      "RelatedComplaintDispute": "",
+      "ComplaintCategory": "Late Payment Process",
+      "ComplaintType": "Complaint",
+      "SubjectID": "CONT-100",
+      "ContactMethod": "Post",
+      "ReactionOnOutcome": ""
+    },
+    "ContactId": "CONT-100",
+    "PayloadType": "FileComplaint",
+    "ComplainantType": "5678www"
+  }
+}

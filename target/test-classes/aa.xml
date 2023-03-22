@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <sme:request xmlns:sme="http://www.sapiens.com/cm/createSchemeMembership/v1">
+            <createSchemeMembershipRequest xmlns="http://www.sapiens.com/cm/createSchemeMembership/v1">
+                <header>
+                    <srcUserId>PEGA</srcUserId>
+                </header>
+                <crmCaseReference>SMETC13</crmCaseReference>
+                <schemeMembership>
+                    <schemeId>DC100009311</schemeId>
+                    <subSchemeId>0001</subSchemeId>
+                    <empCatId>1</empCatId>
+                    <planReference>N8551885</planReference>
+                    <cmPartyId>15005785</cmPartyId>
+                    <startDate>2021-05-01</startDate>
+                    <schemeEnrlType>3</schemeEnrlType>
+                    <earningsTier>1</earningsTier>
+                    <retirementAge>60</retirementAge>
+                    <defltInvestInd>Y</defltInvestInd>
+                    <salarySacrificeInd>N</salarySacrificeInd>
+                    <schemePayrlRef>EMP30011</schemePayrlRef>
+                    <dateJoinedComp>2021-05-01</dateJoinedComp>
+                    <salary>30000</salary>
+                    <pensSalary>30000</pensSalary>
+                    <nonStdEmployeeSalaryPct/>
+                    <nonStdEmployerSalaryPct/>
+                </schemeMembership>
+            </createSchemeMembershipRequest>
+        </sme:request>
+    </soap:Body>
+</soap:Envelope>
