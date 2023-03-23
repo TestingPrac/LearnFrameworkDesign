@@ -43,6 +43,30 @@ public class Stepdef extends BaseClass {
 
 //    driver.quit();
 
+        System.out.println("alert present");
+        Alert alert = driver.switchTo().alert();
+        alert.accept();
+
+        System.out.println("alert present");
+        Alert alert1 = driver.switchTo().alert();
+        alert.accept();
+        alert.accept();
+        System.out.println("alert present");
+//        Alert alert = driver.switchTo().alert();
+        alert.accept();
+
+        System.out.println("alert present");
+//        Alert alert1 = driver.switchTo().alert();
+        alert.accept();
+        alert.accept(); System.out.println("alert present");
+//        Alert alert = driver.switchTo().alert();
+        alert.accept();
+
+        System.out.println("alert present");
+//        Alert alert1 = driver.switchTo().alert();
+        alert.accept();
+        alert.accept();
+
         //            WebDriverWait wait = new WebDriverWait(driver, 5);
 //            wait.until(ExpectedConditions.alertIsPresent());
 //
