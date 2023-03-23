@@ -42,7 +42,7 @@ public class Stepdef extends BaseClass {
         driver.findElement(By.name("q")).sendKeys("flower");
 
 //    driver.quit();
-
+hai what add
         //            WebDriverWait wait = new WebDriverWait(driver, 5);
 //            wait.until(ExpectedConditions.alertIsPresent());
 //
